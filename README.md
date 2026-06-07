@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Dmitry Konstantinov 👋
 
-<!--
-**netudima/netudima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Apache Cassandra committer** since Feb 25 and a system architect with 15+ years building high-performance, distributed systems.
 
-Here are some ideas to get you started:
+🔭 I work on [Apache Cassandra](https://github.com/apache/cassandra) — a highly scalable, fault-tolerant distributed database used in production at some of the largest data deployments in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ My focus: performance optimization, reliability, observability and code quality in large Java codebases.
+
+📍 Cambridge, UK · working at Netcracker.
+
+### Find my work
+- 🧩 [My Cassandra contributions](https://nightlies.apache.org/cassandra/devbranch/misc/contribulyze/html/last_3_years/detail/Dmitry%2520Konstantinov.html)
+
+### Tech
+`Java` · `Distributed systems` · `Databases` · `Performance engineering` · `JVM` · `Concurrency` · `Apache Kafka` · `Apache Zookeeper` · `Mechanical Sympathy`
+
+---
+*Open to discussing distributed databases, performance, and Cassandra internals.*
