@@ -2,7 +2,8 @@
 
 **Apache Cassandra committer** since Feb 25 and a system architect with 15+ years building high-performance, distributed systems.
 
-🔭 I work on [Apache Cassandra](https://github.com/apache/cassandra) — a highly scalable, fault-tolerant distributed database used in production at some of the largest data deployments in the world.
+🔭 In my spare time I work on [Apache Cassandra](https://github.com/apache/cassandra) — a highly scalable, fault-tolerant distributed database used in production at some of the largest data deployments in the world.
+I also have some expirience with Apache Kafka, Apache Zookeeper, Apache Karaf, Hazelcast.
 
 ⚡ My focus: performance optimization, reliability, observability and code quality in large Java codebases.
 
